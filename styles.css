@@ -202,6 +202,7 @@
         color: black;
         text-align: center;
         padding: 10px;
+        margin: auto;
         width: 100%; /* Ensures it stays within the viewport */
 
     }
